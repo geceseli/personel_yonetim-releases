@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "url": "",
+  "version": "1.0.1",
+  "build": 2,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.1/app-release.apk",
   "mandatory": false,
-  "notes": []
+  "notes": ["Otomatik güncelleme sistemi aktif edildi"]
 }
