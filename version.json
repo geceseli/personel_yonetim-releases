@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "build": 101,
-  "url": "APK link",
+  "version": "1.0.0",
+  "build": 1,
+  "url": "",
   "mandatory": false,
-  "notes": ["test update"]
+  "notes": []
 }
