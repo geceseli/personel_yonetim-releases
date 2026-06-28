@@ -1,7 +1,1 @@
-{
-  "version": "1.0.1",
-  "build": 2,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.1/app-release.apk",
-  "mandatory": false,
-  "notes": ["Otomatik güncelleme sistemi aktif edildi"]
-}
+{"version":"1.0.2","build":3,"url":"https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.2/app-release.apk","mandatory":false,"notes":["Cari ekstre PDF acik adisyonlari listeler","Odeme Detayi modali PDF/Yazdir butonu","Toplu secim checkbox","Indirim etiketi duzeltmesi"]}
