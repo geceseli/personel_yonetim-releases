@@ -1,1 +1,13 @@
-{"version":"1.0.4","build":5,"url":"https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.4/app-release.apk","mandatory":false,"notes":["v1.0.4 sürümü","Build numarası düzeltmesi (otomatik güncelleme sorunu giderildi)"]}
+{
+  "version": "1.0.5",
+  "build": 6,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.5/app-release.apk",
+  "mandatory": false,
+  "notes": [
+    "Devamsızlık Takibi: PDKS senkronu artık giriş/çıkış kayıtlarını otomatik besliyor",
+    "Personel PDF raporlarına gerçek fotoğraf ve devamsızlık özeti eklendi",
+    "Yıllık İzin Tablosu ve kayıt akışındaki veri hatası düzeltildi",
+    "Koyu modda okunmayan açılır menüler düzeltildi",
+    "Genel çeviri ve arayüz iyileştirmeleri"
+  ]
+}
