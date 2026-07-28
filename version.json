@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
-  "build": 9,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.7/app-release.apk",
+  "version": "1.0.8",
+  "build": 10,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.8/app-release.apk",
   "mandatory": false,
   "notes": [
-    "İK: Personel arama artık turnike/PDKS numarasına (Per.No) göre de çalışıyor",
-    "Devamsızlık Takibi: kişi bazlı puantaj paneli, sayfalama kaldırıldı, tüm liste tek kaydırılabilir görünüm",
-    "Maliyet: reçete ekranına kategori değiştirme, ürün adı düzenleme ve ürün bazlı işçilik oranı eklendi",
-    "Maliyet: fiyat listesi ve malzeme kataloğunda mükerrer kayıtlar temizlendi",
-    "Ürün Transfer Listesi: 2 piksellik taşma hatası giderildi, ürün adı satırdan düzenlenebiliyor",
+    "Puantaj: PDKS senkronu artık sunucu tarafında, günde 4 kez (07:00/12:00/16:00/02:00) otomatik çalışıyor",
+    "Puantaj: uygulama açıldığında artık yeniden hesaplama yapılmıyor, sadece kayıtlı veriler gösteriliyor",
+    "Puantaj: her gün 02:00'de kesinleştiriliyor, kesinleşen günlere bir daha otomatik yazılmıyor",
+    "Personel ID (Per.No) artık tek ve benzersiz eşleştirme anahtarı, isim tabanlı eşleştirme kaldırıldı",
+    "Puantaj Cetveli'ne Personel ID sütunu eklendi",
     "Genel kararlılık ve arayüz iyileştirmeleri"
   ]
 }
