@@ -1,14 +1,13 @@
 {
-  "version": "1.0.8",
-  "build": 10,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.8/app-release.apk",
-  "mandatory": false,
+  "version": "1.0.9",
+  "build": 11,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.9/app-release.apk",
+  "mandatory": true,
   "notes": [
-    "Puantaj: PDKS senkronu artık sunucu tarafında, günde 4 kez (07:00/12:00/16:00/02:00) otomatik çalışıyor",
-    "Puantaj: uygulama açıldığında artık yeniden hesaplama yapılmıyor, sadece kayıtlı veriler gösteriliyor",
-    "Puantaj: her gün 02:00'de kesinleştiriliyor, kesinleşen günlere bir daha otomatik yazılmıyor",
-    "Personel ID (Per.No) artık tek ve benzersiz eşleştirme anahtarı, isim tabanlı eşleştirme kaldırıldı",
-    "Puantaj Cetveli'ne Personel ID sütunu eklendi",
-    "Genel kararlılık ve arayüz iyileştirmeleri"
+    "KRİTİK: Puantaj Cetveli'nde belirli bir tarihten sonra veri görünmemesi düzeltildi",
+    "Kök neden: devam tablosu 1000 satırı aştığında Supabase API otomatik kırpıyordu, bu da mükerrer kayıt üretimine yol açıyordu — 65.000+ mükerrer kayıt temizlendi",
+    "Artık hiçbir tablo (devam, geçiş kaydı, devamsızlık uyarıları vb.) satır sınırından etkilenmiyor",
+    "Puantaj: sunucu tarafı otomatik senkron (günde 4 kez) + gün sonu kesinleştirme",
+    "Personel ID artık tek ve benzersiz eşleştirme anahtarı"
   ]
 }
