@@ -1,13 +1,13 @@
 {
-  "version": "1.0.9",
-  "build": 11,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.0.9/app-release.apk",
+  "version": "1.1.1",
+  "build": 13,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.1.1/app-release.apk",
   "mandatory": true,
   "notes": [
-    "KRİTİK: Puantaj Cetveli'nde belirli bir tarihten sonra veri görünmemesi düzeltildi",
-    "Kök neden: devam tablosu 1000 satırı aştığında Supabase API otomatik kırpıyordu, bu da mükerrer kayıt üretimine yol açıyordu — 65.000+ mükerrer kayıt temizlendi",
-    "Artık hiçbir tablo (devam, geçiş kaydı, devamsızlık uyarıları vb.) satır sınırından etkilenmiyor",
-    "Puantaj: sunucu tarafı otomatik senkron (günde 4 kez) + gün sonu kesinleştirme",
-    "Personel ID artık tek ve benzersiz eşleştirme anahtarı"
+    "Maliyet modülü: 3 katmanlı esnek maliyet parametre mimarisi (Ürün Özel → Kategori Genel → Sistem Varsayılanı)",
+    "Yeni: Kategori bazlı İşçilik/Fire/Satış Kar/KDV oranları (her üretim bölümü kendi oranını taşıyabilir)",
+    "Ürün bazlı özel maliyet ayarı artık işçilik dışında Fire/Satış Kar/KDV'yi de kapsıyor",
+    "Eksik Hammaddeler listesi artık uygulama içinden düzenlenebilir/silinebilir (önceden sadece SQL Editor'den değiştirilebiliyordu)",
+    "Ürün Reçeteleri ekranı araç çubuğu ve maliyet parametreleri düzeni sadeleştirildi"
   ]
 }
