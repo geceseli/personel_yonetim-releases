@@ -1,14 +1,14 @@
 {
-  "version": "1.1.2",
-  "build": 14,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.1.2/app-release.apk",
+  "version": "1.2.0",
+  "build": 15,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.0/app-release.apk",
   "mandatory": true,
   "notes": [
-    "Kasa Raporları ekranı tamamen yeniden tasarlandı: tek sayfa Günlük Cari Hareket Raporu, sabit filtre kartı, sayfalama yerine kesintisiz kayan liste",
-    "Kasa Raporları: satır seçme, toplu yazdırma/PDF paylaşma ve toplu silme",
-    "Menü Düzenleme modülü + Maliyet 3 katmanlı esnek parametre mimarisi (Ürün Özel → Kategori Genel → Sistem Varsayılanı)",
-    "Puantaj: Per.No artık gerçek turnike ID'sini gösteriyor + PDF iyileştirmeleri",
-    "Reçete ekranı UI iyileştirmeleri",
-    "Müşteri Cari toplu PDF'de garson ayrımı + \"Herkes\" seçeneği"
+    "Global mesaj sistemi (AppMesaj): tek tip onay/başarı/uyarı/hata/bilgi mesajları",
+    "Ürün Reçeteleri: taslak/Kaydet-Vazgeç mimarisi, otomatik kaydetme kaldırıldı",
+    "Reçete ekranı ve Fiyat Listesi mobil (telefon) görünümleri baştan tasarlandı",
+    "Maliyet Raporları: ay/yıl dönem filtresi eklendi, PDF/Excel butonları yenilendi",
+    "Merve Cafe Menü ekranı: taşma düzeltmeleri, arama+görünüm butonları tek satırda, görsel yükleme performansı iyileştirildi",
+    "Depo Yönetimi Stok Listesi: toplu ürün silme eklendi, aksiyon butonları yeniden düzenlendi"
   ]
 }
