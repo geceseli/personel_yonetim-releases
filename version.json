@@ -1,14 +1,13 @@
 {
-  "version": "1.2.0",
-  "build": 15,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.0/app-release.apk",
-  "mandatory": true,
+  "version": "1.2.1",
+  "build": 16,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.1/app-release.apk",
+  "mandatory": false,
   "notes": [
-    "Global mesaj sistemi (AppMesaj): tek tip onay/başarı/uyarı/hata/bilgi mesajları",
-    "Ürün Reçeteleri: taslak/Kaydet-Vazgeç mimarisi, otomatik kaydetme kaldırıldı",
-    "Reçete ekranı ve Fiyat Listesi mobil (telefon) görünümleri baştan tasarlandı",
-    "Maliyet Raporları: ay/yıl dönem filtresi eklendi, PDF/Excel butonları yenilendi",
-    "Merve Cafe Menü ekranı: taşma düzeltmeleri, arama+görünüm butonları tek satırda, görsel yükleme performansı iyileştirildi",
-    "Depo Yönetimi Stok Listesi: toplu ürün silme eklendi, aksiyon butonları yeniden düzenlendi"
+    "Android giriş ekranı: Kayıt Ol sekmesindeki bölüm seçim kutularında görülen 1 piksellik taşma düzeltildi",
+    "Depo > Ürün Girişi formu: Giriş Özeti/Açıklama-Not/Onay Bilgileri tek kutuda birleştirildi, sil butonu ve Hedef Depo alanındaki taşmalar giderildi",
+    "Depo > Üretim/Satış Girişi tablosunda yatay kaydırma çubuğu belirginleştirildi",
+    "Fiyat İstihbaratı, Müşteri Cari ve İK ekranlarında çeşitli düzeltme ve iyileştirmeler",
+    "Çeviri (TR/RU/EN) güncellemeleri"
   ]
 }
