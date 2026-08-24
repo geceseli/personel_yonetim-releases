@@ -1,14 +1,16 @@
 {
-  "version": "1.2.2",
-  "build": 17,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.2/app-release.apk",
+  "version": "1.2.3",
+  "build": 18,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.3/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo Yönetimi: yeni \"Et Transfer Listesi\" modülü — tarih bazlı fiyat geçmişi, ödenmiş/ödenmemiş ayrı takip, ürün fiyat listesi sayfası",
-    "Et Transfer Listesi: detaylı ve özet PDF/Excel raporları, kişi bazlı özel yetkilendirme",
-    "Hareketler ekranına Et Transfer Listesi kısayolu eklendi",
-    "Kasa Yönetimi altında da Et Transfer Listesi erişimi eklendi (mobil dahil)",
-    "Windows kurulum/güncelleme derlemesinde admin izni gerektiren bir kurulum sorunu giderildi",
-    "Çeşitli mobil arayüz iyileştirmeleri"
+    "PDKS senkron: turnike tarih formatı (GG/AA/YYYY→YYYY-AA-GG) değişikliğine karşı düzeltildi, 20-23 Ağustos verisi geri dolduruldu",
+    "Puandaj Cetveli: kamera çıkışı görülmeyen günler artık \"Y\" (yarım gün) + açıklayıcı not ile işaretleniyor",
+    "Personel Puantaj: gece yarısını geçen vardiyalarda (ör. 16:00-24:00) çıkış saati puantajda 24:00'a normalize ediliyor, gerçek kamera kaydı korunuyor",
+    "Personel Puantaj: Vardiya Saati ve Haftalık İzin Günü bilgi kutuları eklendi, haftalık izin günü bu ekrandan da düzenlenebiliyor",
+    "Haftalık izin günü otomatik kaydırma: personel sabit izin gününde çalışırsa izin hakkı o haftaki en yakın boş güne kayıyor",
+    "Günlük Kaydı Düzenle: İzin Türü (Yıllık/Özel/Rapor) eklendi, açıklama artık zorunlu değil",
+    "Personel fotoğraflarına tıklayınca büyük/yakınlaştırılabilir önizleme açılıyor",
+    "Personel Puantaj PDF çıktısına Haftalık İzin Günü bilgisi eklendi"
   ]
 }
