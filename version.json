@@ -1,16 +1,12 @@
 {
-  "version": "1.2.3",
-  "build": 18,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.3/app-release.apk",
+  "version": "1.2.4",
+  "build": 19,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.4/app-release.apk",
   "mandatory": false,
   "notes": [
-    "PDKS senkron: turnike tarih formatı (GG/AA/YYYY→YYYY-AA-GG) değişikliğine karşı düzeltildi, 20-23 Ağustos verisi geri dolduruldu",
-    "Puandaj Cetveli: kamera çıkışı görülmeyen günler artık \"Y\" (yarım gün) + açıklayıcı not ile işaretleniyor",
-    "Personel Puantaj: gece yarısını geçen vardiyalarda (ör. 16:00-24:00) çıkış saati puantajda 24:00'a normalize ediliyor, gerçek kamera kaydı korunuyor",
-    "Personel Puantaj: Vardiya Saati ve Haftalık İzin Günü bilgi kutuları eklendi, haftalık izin günü bu ekrandan da düzenlenebiliyor",
-    "Haftalık izin günü otomatik kaydırma: personel sabit izin gününde çalışırsa izin hakkı o haftaki en yakın boş güne kayıyor",
-    "Günlük Kaydı Düzenle: İzin Türü (Yıllık/Özel/Rapor) eklendi, açıklama artık zorunlu değil",
-    "Personel fotoğraflarına tıklayınca büyük/yakınlaştırılabilir önizleme açılıyor",
-    "Personel Puantaj PDF çıktısına Haftalık İzin Günü bilgisi eklendi"
+    "Günlük Detay: tüm tarihler tire ile (GG-AA-YYYY) tutarlı formatta gösteriliyor",
+    "Günlük Kaydı Düzenle: \"Benim Vardiyam\" butonu eklendi — personelin atanmış vardiyasının giriş/çıkış saatini tek tıkla o güne uygular (saatler Vardiya Ayarları'ndan okunur)",
+    "Personel Puantaj detayına Geç Kalma ve Fazla Çalışma kutuları eklendi — o ayın giriş/çıkış kayıtlarından, personelin kendi vardiyasına göre otomatik hesaplanıyor",
+    "Günlük Detay paneli ve Personel Puantaj ızgarasında kaydırma çubukları belirginleştirildi"
   ]
 }
