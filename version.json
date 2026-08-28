@@ -1,13 +1,11 @@
 {
-  "version": "1.2.5",
-  "build": 20,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.5/app-release.apk",
+  "version": "1.2.6",
+  "build": 21,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.6/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Personel Listesi'ne \"PER.LİST\" toplu yazdırma eklendi — tüm personeli tek PDF'te departman/bölüm bazlı listeler hâlinde basar",
-    "Erişim İzinleri'ne alt sayfa bazlı ince ayar (ağaç yapısı) eklendi",
-    "Maaş/Puantaj PDF'inde turnike ID ve toplu eşleştirme hataları düzeltildi",
-    "PER.LİST PDF tasarımı yeniden düzenlendi — daha okunaklı, kurumsal ve yoğun bir yerleşim",
-    "PDF paylaşımında WhatsApp'a dosya artık panodan (Ctrl+V ile) doğrudan yapıştırılabiliyor"
+    "PER.LİST PDF'inde bölüm başlıkları sadeleştirildi (\"BÖLÜM · N Personel\")",
+    "PER.LİST 3 sütun artık satır hizalı — başlıklar yan yana aynı satırda başlıyor",
+    "PER.LİST'te başlık ile altındaki isimlerin farklı sayfaya bölünmesi düzeltildi"
   ]
 }
