@@ -1,11 +1,10 @@
 {
-  "version": "1.2.7",
-  "build": 22,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.7/app-release.apk",
+  "version": "1.2.8",
+  "build": 23,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.8/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo: telefon kamerasıyla ürün barkodu okutma (Ürün Ekle/Düzenle + Ürün Girişi/Çıkışı)",
-    "Et Transfer: ürün seçimi artık aranabilir ve sadece Et Ürünleri kategorisini listeliyor",
-    "Depo Sayım İçe Aktarma: 168 yeni ürün + ilk stok girişleri eklendi"
+    "Personel Puantaj: tarih sorgulama penceresine hızlı ay geçişi (sol/sağ ok) eklendi",
+    "Telefon Yüz Kiosk (deneysel): PDKS sunucusu arızalıyken yedek devam-takip, Admin+İK, sadece Android"
   ]
 }
