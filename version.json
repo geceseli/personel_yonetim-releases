@@ -1,11 +1,10 @@
 {
-  "version": "1.2.11",
-  "build": 26,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.11/app-release.apk",
+  "version": "1.2.12",
+  "build": 27,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.12/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Personel Puantaj: Günlük Kaydı Düzenle'ye manuel \"Haftalık İzin\" seçeneği eklendi",
-    "Personel Puantaj: Günlük Detay listesinde çoklu seçim + Toplu Düzenle eklendi",
-    "Kayıt güncellendi bildirimi kısaltıldı"
+    "Personel Puantaj: Yönetici Notu bölümü eklendi — kişi/dönem bazlı not yazılıp PDF çıktısına basılıyor",
+    "Yönetici Notu'na Haftalık/Yıllık/Özel İzin (Kesinti) gün sayıları otomatik ekleniyor"
   ]
 }
