@@ -1,10 +1,10 @@
 {
-  "version": "1.2.8",
-  "build": 23,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.8/app-release.apk",
+  "version": "1.2.9",
+  "build": 24,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.9/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Personel Puantaj: tarih sorgulama penceresine hızlı ay geçişi (sol/sağ ok) eklendi",
-    "Telefon Yüz Kiosk (deneysel): PDKS sunucusu arızalıyken yedek devam-takip, Admin+İK, sadece Android"
+    "Personel Puantaj: \"Boş Puantaj Yazdır\" — tüm personel için günlük giriş/çıkışları boş, kalemle doldurulacak yazdırma seçeneği eklendi",
+    "Yazdır butonu artık dönemde hiç kayıt olmasa bile sabit görünür"
   ]
 }
