@@ -1,10 +1,9 @@
 {
-  "version": "1.2.9",
-  "build": 24,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.9/app-release.apk",
+  "version": "1.2.10",
+  "build": 25,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.10/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Personel Puantaj: \"Boş Puantaj Yazdır\" — tüm personel için günlük giriş/çıkışları boş, kalemle doldurulacak yazdırma seçeneği eklendi",
-    "Yazdır butonu artık dönemde hiç kayıt olmasa bile sabit görünür"
+    "Boş Puantaj Yazdır çıktısı yeniden tasarlandı: Yönetici Notu kaldırıldı, günlük satırlar daha büyük ve okunaklı"
   ]
 }
