@@ -1,12 +1,12 @@
 {
-  "version": "1.2.14",
-  "build": 29,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.14/app-release.apk",
+  "version": "1.2.15",
+  "build": 30,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.15/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Yönetici Notu: 'YÖNETİCİ NOTU' sabit başlığı PDF'ten kaldırıldı",
-    "Yeni: Yönetici Onayı Gerekli kaşesi — ekranda ve PDF'te oval damga olarak basılıyor",
-    "İşe Başlama Tarihi artık Personel Puantaj panelinde görüntüleniyor ve Personel Listesi'nde düzenlenebiliyor",
-    "PDF'de Yönetici Notu'nun bazen boş çıkması sorunu giderildi (kaydet-sonrası tazeleme + çok satırlı metin düzeltmesi)"
+    "PDKS aktarımında kritik veri kaybı düzeltmesi: manuel giriş/çıkış, izinler, Yönetici Notu, Yönetici Onayı ve Ödenecek Tutar artık PDKS güncellemesinde silinmiyor",
+    "Geç Kalma / Fazla Çalışma hesaplaması vardiya bazlı, toleranssız ve gerçek verilere göre düzeltildi",
+    "PDF Yönetici Notu alanına Geç Kalma / Fazla Çalışma değerleri de yazdırılıyor",
+    "Aynı personel/dönem için tekrarlanan PDKS aktarımlarında kayıt çoğalması engellendi"
   ]
 }
