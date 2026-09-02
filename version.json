@@ -1,12 +1,12 @@
 {
-  "version": "1.2.13",
-  "build": 28,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.13/app-release.apk",
+  "version": "1.2.14",
+  "build": 29,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.14/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Toplu günlük kayıt düzenleme ekranı yenilendi — Benim Vardiyam butonu ve izin türü seçimi tekli düzenlemeyle aynı",
-    "Kayıt güncellendi bildirimleri küçültüldü, sol alt köşede kompakt gösteriliyor",
-    "Devamsızlık Takip verileri 01/09/2026 baz alınarak temizlendi",
-    "Telefon Yüz Kiosk modülü eklendi (PDKS yedek, offline yüz tanıma — Admin/İK)"
+    "Yönetici Notu: 'YÖNETİCİ NOTU' sabit başlığı PDF'ten kaldırıldı",
+    "Yeni: Yönetici Onayı Gerekli kaşesi — ekranda ve PDF'te oval damga olarak basılıyor",
+    "İşe Başlama Tarihi artık Personel Puantaj panelinde görüntüleniyor ve Personel Listesi'nde düzenlenebiliyor",
+    "PDF'de Yönetici Notu'nun bazen boş çıkması sorunu giderildi (kaydet-sonrası tazeleme + çok satırlı metin düzeltmesi)"
   ]
 }
