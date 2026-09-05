@@ -1,14 +1,13 @@
 {
-  "version": "1.2.16",
-  "build": 31,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.16/app-release.apk",
+  "version": "1.2.17",
+  "build": 32,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.17/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Yeni Vardiya Karar Motoru: her günün vardiyası artık gerçek PDKS giriş/çıkışına göre güven skoruyla otomatik belirleniyor",
-    "Eksik Veri Otomasyonu: eksik giriş/çıkış, Ayarlar'dan belirlenen güven eşiğine göre otomatik tamamlanabiliyor, düşükse manuel kontrole bırakılıyor",
-    "Geç Kalma / Erken Çıkış / Fazla Mesai hesaplaması yeni vardiya motoruna bağlandı, her biri Ayarlar'dan ayrı ayrı açılıp kapatılabiliyor",
-    "Maaş Yazdırma Özeti: PDF çıktısındaki izin/geç kalma/fazla mesai satırları Ayarlar'dan ayrı ayrı gösterilip gizlenebiliyor",
-    "Departmana Göre Yazdır: Salon departmanı artık Garson/Runner/Masa Silici/Salon Şef olarak ayrı ayrı seçilebiliyor",
-    "Ağustos 2026 maaş kayıtları kalıcı olarak korumaya alındı, hiçbir otomatik süreç bu döneme dokunmuyor"
+    "PDKS ID mimarisi güçlendirildi: personel_harici_id_gecmisi ile PDKS turnike numaraları artık zaman damgalı geçmiş olarak izleniyor, personel.id hiçbir zaman değişmiyor",
+    "Maaş kaydına yeni 'Maaş Ödendi' kaşesi eklendi (Yönetici Onayı Gerekli ile aynı görsel dil)",
+    "Personel Puantaj: Kayıtlı Aylık Ücret artık doğrudan ekrandan düzenlenebiliyor",
+    "Personel Puantaj: yeni 'Detay Gör' paneli — kişisel bilgiler, izin/çalışma özeti, vardiya ve maaş bilgilerini tek ekranda gösteriyor",
+    "PDKS eşleştirme güvenliği: harici_id/excel_calisan_id uyuşmazlığında artık hiçbir sessiz/yanlış kayıt oluşturulmuyor"
   ]
 }
