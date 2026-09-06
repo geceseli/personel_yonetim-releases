@@ -1,13 +1,9 @@
 {
-  "version": "1.2.18",
-  "build": 33,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.18/app-release.apk",
+  "version": "1.2.19",
+  "build": 34,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.19/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Kritik hata düzeltmesi: Excel Yükle sırasında 'duplicate key ux_maas_kayit_excelid_donem' hatası (aynı personel için mükerrer satırlar artık işleme alınmadan önce güvenle birleştiriliyor)",
-    "Personel Puantaj: yeni 'Devamsızlık Uyarıları' düğmesi — açık devamsızlık/gecikme uyarılarını listeler, tıklanan personeli listede seçili hale getirir",
-    "Akıllı Devamsızlık sistemi: gece yarısını aşan vardiyalarda (örn. 22:00-06:00) tarih hesaplama hatası düzeltildi",
-    "Personel Listesi: yeni 'Yeni Kayıt' bildirimi — PDKS'te eşleşmeyen personel için onay/red akışı, küçük bir bildirim kutusunda toplanıyor",
-    "PDKS'e isim/birim yazma entegrasyonu eklendi (tek tek onaylı, panelden mevcut personel bilgileriyle senkron)"
+    "Kritik hata düzeltmesi (2. tur): Excel Yükle sırasında bazı senaryolarda hâlâ oluşabilen 'duplicate key ux_maas_kayit_excelid_donem' hatası kökünden çözüldü — excel_calisan_id artık her zaman personelin PDKS'teki gerçek kimliğinden alınıyor, elle eşleştirmede bile çakışma imkânsız hale getirildi"
   ]
 }
