@@ -1,9 +1,15 @@
 {
-  "version": "1.2.19",
-  "build": 34,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.19/app-release.apk",
+  "version": "1.2.20",
+  "build": 35,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.20/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Kritik hata düzeltmesi (2. tur): Excel Yükle sırasında bazı senaryolarda hâlâ oluşabilen 'duplicate key ux_maas_kayit_excelid_donem' hatası kökünden çözüldü — excel_calisan_id artık her zaman personelin PDKS'teki gerçek kimliğinden alınıyor, elle eşleştirmede bile çakışma imkânsız hale getirildi"
+    "PDKS ID kilidi/yeniden kullanım mimarisi: ayrılan personelin turnike numarası, o ayın maaşı hesaplanmadan asla başka birine verilemez",
+    "'Yeni Kayıt' (PDKS otomatik onay bekleyen profiller) sistemi Personel Listesi'nden 'Yeni Personel Ekle' sayfasına taşındı",
+    "Yeni 'PDKS Oto ID' ayarı: kapatılınca personel SADECE PDKS'in otomatik akışıyla oluşturulur, PDKS ID hiçbir yerden elle değiştirilemez — artık sidebar dahil her yerde gerçek zamanlı uygulanıyor",
+    "Personel Listesi'nin düzenleme paneli artık salt-okunur; tüm düzenleme yeni 'Personel Düzenle' (ara/filtrele/seç) akışından yapılıyor",
+    "Aramızdan Ayrılanlar'a geçmiş veri görünümü eklendi: PDKS ID geçmişi, çalışma/izin/maaş geçmişi",
+    "Performans Değerlendirme Notu artık kalıcı olarak kaydediliyor (Düzenle/Kaydet)",
+    "Personel Puantaj üst çubuğundaki düğmeler Windows'ta orantısız/küçük görünme sorunu düzeltildi"
   ]
 }
