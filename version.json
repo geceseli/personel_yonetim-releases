@@ -1,13 +1,15 @@
 {
-  "version": "1.2.21",
-  "build": 36,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.21/app-release.apk",
+  "version": "1.2.22",
+  "build": 37,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.22/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo Yönetimi: yeni 'Aylık Ürün Tüketimi' ekranı — depo bazlı günlük tüketim girişi, Kaydet ile gerçek stoktan otomatik düşer",
-    "Transfer Merkezi ve Et Transfer Listesi'ne 'Aylık Ürün Tüketimi' ve 'Et Transfer Listesi' hızlı erişim butonları eklendi",
-    "Personel Düzenle: profil ekranından doğrudan düzenleme akışı eklendi",
-    "İşten Çıkarma artık süreç tabanlı: personel, son ayının maaşı kesinleşene kadar aktif listede 'Ayrılma Süreci' rozetiyle kalır",
-    "Yeni personel eklendiğinde yöneticilere anlık bildirim (push) gönderilmesi eklendi"
+    "Depo: Aylık Ürün Tüketimi ve Üretim/Satış Girişi ekranları artık çok daha hızlı açılıyor",
+    "Depo: Üretim/Satış Girişi açılışta MERKEZ, Aylık Tüketim açılışta Restoran Malzeme Deposu'nu otomatik seçiyor",
+    "Depo: Aylık Ürün Tüketimi ekranı koyu/açık tema ile tam uyumlu hale getirildi",
+    "İK: Yeni personel eklendiğinde gelen push bildirimine dokununca ilgili personelin düzenleme ekranı doğrudan açılıyor",
+    "İK: Android'de push bildirimlerin güvenilir şekilde ulaşmaması sorunu giderildi",
+    "İK: Personel Puantaj'da gece vardiyasında çalışanlarda hatalı, gerçek dışı yüksek 'Fazla Çalışma' süresi gösterilmesi düzeltildi",
+    "İK: Devamsızlık Takibi istatistiklerinde izleme başlangıcından önceki günlerin yanlışlıkla 'zamanında' sayılması düzeltildi"
   ]
 }
