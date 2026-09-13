@@ -1,14 +1,14 @@
 {
-  "version": "1.2.23",
-  "build": 38,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.23/app-release.apk",
+  "version": "1.2.24",
+  "build": 39,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.24/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo: İç Transfer Ürün Listesi ekranı tamamen yenilendi — artık kalıcı veritabanına kaydediyor, departman/ürün ekle-düzenle-sil ve tam ay tablo görünümü eklendi",
-    "Depo: İç Transfer için ayrı bir Raporlama ekranı eklendi (Aylık/3 Aylık/6 Aylık/1 Yıllık ve özel tarih aralığı, Excel ve PDF çıktı)",
-    "Depo: İç Transfer ekranına Excel'den içe aktarma eklendi",
-    "Depo: İç Transfer ekranına tam ekran modu ve dönem kilidi eklendi",
-    "İşletme adı artık Ayarlar'dan değiştirilebiliyor; arayüz ve raporlarda otomatik güncelleniyor",
-    "Ürün ekleme ekranındaki otomatik çeviri artık o an seçili olan uygulama diline göre çalışıyor"
+    "İK: Personel Puantaj'da (telefon) Vardiyalar/Birimler filtre satırı taşma hatası düzeltildi",
+    "İK: Devamsızlık Raporu bazı cihazlarda yanlışlıkla masaüstü (yoğun tablo) görünümüyle açılıp taşma yapıyordu, düzeltildi",
+    "İK: 'Yeni Personeller' bildirim penceresi genişletildi, isimler artık kırpılmıyor",
+    "İK: 'Yeni PDKS Personeli' onay kutusu dar ekranlarda taşıyordu, düzeltildi",
+    "İK: Personel Düzenle penceresinde 'Onayla' işlemi artık anında butonu gizliyor",
+    "Depo: İç Transfer Excel içe aktarma artık makrolu (.xlsm) dosyaları da kabul ediyor"
   ]
 }
