@@ -1,15 +1,14 @@
 {
-  "version": "1.2.22",
-  "build": 37,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.22/app-release.apk",
+  "version": "1.2.23",
+  "build": 38,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.23/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo: Aylık Ürün Tüketimi ve Üretim/Satış Girişi ekranları artık çok daha hızlı açılıyor",
-    "Depo: Üretim/Satış Girişi açılışta MERKEZ, Aylık Tüketim açılışta Restoran Malzeme Deposu'nu otomatik seçiyor",
-    "Depo: Aylık Ürün Tüketimi ekranı koyu/açık tema ile tam uyumlu hale getirildi",
-    "İK: Yeni personel eklendiğinde gelen push bildirimine dokununca ilgili personelin düzenleme ekranı doğrudan açılıyor",
-    "İK: Android'de push bildirimlerin güvenilir şekilde ulaşmaması sorunu giderildi",
-    "İK: Personel Puantaj'da gece vardiyasında çalışanlarda hatalı, gerçek dışı yüksek 'Fazla Çalışma' süresi gösterilmesi düzeltildi",
-    "İK: Devamsızlık Takibi istatistiklerinde izleme başlangıcından önceki günlerin yanlışlıkla 'zamanında' sayılması düzeltildi"
+    "Depo: İç Transfer Ürün Listesi ekranı tamamen yenilendi — artık kalıcı veritabanına kaydediyor, departman/ürün ekle-düzenle-sil ve tam ay tablo görünümü eklendi",
+    "Depo: İç Transfer için ayrı bir Raporlama ekranı eklendi (Aylık/3 Aylık/6 Aylık/1 Yıllık ve özel tarih aralığı, Excel ve PDF çıktı)",
+    "Depo: İç Transfer ekranına Excel'den içe aktarma eklendi",
+    "Depo: İç Transfer ekranına tam ekran modu ve dönem kilidi eklendi",
+    "İşletme adı artık Ayarlar'dan değiştirilebiliyor; arayüz ve raporlarda otomatik güncelleniyor",
+    "Ürün ekleme ekranındaki otomatik çeviri artık o an seçili olan uygulama diline göre çalışıyor"
   ]
 }
