@@ -1,14 +1,14 @@
 {
-  "version": "1.2.24",
-  "build": 39,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.24/app-release.apk",
+  "version": "1.2.25",
+  "build": 40,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.25/app-release.apk",
   "mandatory": false,
   "notes": [
-    "İK: Personel Puantaj'da (telefon) Vardiyalar/Birimler filtre satırı taşma hatası düzeltildi",
-    "İK: Devamsızlık Raporu bazı cihazlarda yanlışlıkla masaüstü (yoğun tablo) görünümüyle açılıp taşma yapıyordu, düzeltildi",
-    "İK: 'Yeni Personeller' bildirim penceresi genişletildi, isimler artık kırpılmıyor",
-    "İK: 'Yeni PDKS Personeli' onay kutusu dar ekranlarda taşıyordu, düzeltildi",
-    "İK: Personel Düzenle penceresinde 'Onayla' işlemi artık anında butonu gizliyor",
-    "Depo: İç Transfer Excel içe aktarma artık makrolu (.xlsm) dosyaları da kabul ediyor"
+    "Ayarlar > Sistem, Entegrasyon & Vardiya Ayarları tek sayfada yeniden tasarlandı",
+    "Yeni: Departman → Şube Eşleştirme (sadece Global Admin) — PDKS departmanlarını şubelere elle atayabilirsiniz",
+    "Düzeltildi: 'PDKS'den Aktar' artık aktif şubenin gerçek PDKS bilgilerini kullanıyor (önceden yanlış şubenin verisi gösterilebiliyordu)",
+    "Düzeltildi: API Sistemi'nde 'Bağlantı Test Et' şemasız IP/host girişinde hata veriyordu",
+    "Düzeltildi: Sol menüde hangi şubede olunduğu artık net görünüyor (Merkez/Prafsayus/Pirzovot Şube)",
+    "Şube bazlı yetkilendirme ve gerçek zamanlı senkronizasyon güçlendirildi"
   ]
 }
