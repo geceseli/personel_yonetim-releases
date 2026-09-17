@@ -1,14 +1,16 @@
 {
-  "version": "1.2.25",
-  "build": 40,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.25/app-release.apk",
+  "version": "1.2.26",
+  "build": 41,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.26/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Ayarlar > Sistem, Entegrasyon & Vardiya Ayarları tek sayfada yeniden tasarlandı",
-    "Yeni: Departman → Şube Eşleştirme (sadece Global Admin) — PDKS departmanlarını şubelere elle atayabilirsiniz",
-    "Düzeltildi: 'PDKS'den Aktar' artık aktif şubenin gerçek PDKS bilgilerini kullanıyor (önceden yanlış şubenin verisi gösterilebiliyordu)",
-    "Düzeltildi: API Sistemi'nde 'Bağlantı Test Et' şemasız IP/host girişinde hata veriyordu",
-    "Düzeltildi: Sol menüde hangi şubede olunduğu artık net görünüyor (Merkez/Prafsayus/Pirzovot Şube)",
-    "Şube bazlı yetkilendirme ve gerçek zamanlı senkronizasyon güçlendirildi"
+    "Depo İç Transfer, Genel Bakış ve Aylık Ürün Tüketimi mobil ekranları yeniden tasarlandı (kompakt kart listeleri, gün şeridi, sabit/donmuş üst başlık)",
+    "Et Transfer Listesi ve Hareketler mobil görünümleri yenilendi, KDV kavramı kaldırıldı",
+    "Kasa Ana Sayfa mobil görünümü kompakt hale getirildi",
+    "Ayarlar > İşletme ve Firma Bilgileri tek sayfada birleştirildi",
+    "Alt menü barı yeni tasarımla güncellendi",
+    "'Daha Fazla' menüsü sadeleştirildi (Teklif Yönetimi ve Et Transfer Listesi kısayolları kaldırıldı)",
+    "Uygulama artık her zaman dikey (portrait) modda kalıyor",
+    "Çeşitli taşma ve düzen hataları düzeltildi"
   ]
 }
