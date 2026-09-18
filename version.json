@@ -1,16 +1,14 @@
 {
-  "version": "1.2.26",
-  "build": 41,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.26/app-release.apk",
+  "version": "1.2.27",
+  "build": 42,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.27/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo İç Transfer, Genel Bakış ve Aylık Ürün Tüketimi mobil ekranları yeniden tasarlandı (kompakt kart listeleri, gün şeridi, sabit/donmuş üst başlık)",
-    "Et Transfer Listesi ve Hareketler mobil görünümleri yenilendi, KDV kavramı kaldırıldı",
-    "Kasa Ana Sayfa mobil görünümü kompakt hale getirildi",
-    "Ayarlar > İşletme ve Firma Bilgileri tek sayfada birleştirildi",
-    "Alt menü barı yeni tasarımla güncellendi",
-    "'Daha Fazla' menüsü sadeleştirildi (Teklif Yönetimi ve Et Transfer Listesi kısayolları kaldırıldı)",
-    "Uygulama artık her zaman dikey (portrait) modda kalıyor",
+    "Şifremi Unuttum artık gerçek e-posta ile çalışıyor: 6 haneli doğrulama kodu, deneme sınırı ve hız sınırlaması ile",
+    "Kayıt olurken e-posta artık zorunlu; e-postası olmayan eski kullanıcılar girişten sonra e-posta girmeye yönlendiriliyor",
+    "Şube veri izolasyonu veritabanı seviyesinde sıkılaştırıldı (RLS güvenlik düzeltmesi)",
+    "Dil değiştirme artık tüm kullanıcı rolleri için çalışıyor",
+    "Genel Bakış ekranındaki karşılama mesajı artık gerçek kullanıcı adını gösteriyor",
     "Çeşitli taşma ve düzen hataları düzeltildi"
   ]
 }
