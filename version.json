@@ -1,14 +1,21 @@
 {
-  "version": "1.2.27",
-  "build": 42,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.27/app-release.apk",
+  "version": "1.2.28",
+  "build": 43,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.28/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Şifremi Unuttum artık gerçek e-posta ile çalışıyor: 6 haneli doğrulama kodu, deneme sınırı ve hız sınırlaması ile",
-    "Kayıt olurken e-posta artık zorunlu; e-postası olmayan eski kullanıcılar girişten sonra e-posta girmeye yönlendiriliyor",
-    "Şube veri izolasyonu veritabanı seviyesinde sıkılaştırıldı (RLS güvenlik düzeltmesi)",
-    "Dil değiştirme artık tüm kullanıcı rolleri için çalışıyor",
-    "Genel Bakış ekranındaki karşılama mesajı artık gerçek kullanıcı adını gösteriyor",
-    "Çeşitli taşma ve düzen hataları düzeltildi"
+    "Personel Puantaj: süre bazlı hesaplama (Çalışma Saati'ne göre eksik/fazla, ±5 dk tolerans, telafi edilen geç kalma vardiyayı tam sayar)",
+    "İş günü sınırı artık gece yarısı değil 02:00 (gece vardiyası kapanışı ve bildirimler buna göre çalışıyor)",
+    "Devamsızlık bildirimi sadeleşti: sadece bugünü gösterir, yönetici İncele/Kesinleştir yapabilir, kalıcı sicil tutuluyor",
+    "Kullanıcı Yönetimi: yeni Şube Müdürü rolü (yalnızca atandığı şubeyi yönetir); Muhasebe, Reçete Yetkilisi ve İzleyici rolleri kaldırıldı",
+    "Kullanıcı Yönetimi yalnızca Admin ve Şube Müdürü tarafından açılabilir; Admin hesabı şube yetkililerine gösterilmez",
+    "Personel Puantaj'a Personel Adisyon Tutarı paneli eklendi: Kasa → Personel Cari'deki adisyonları canlı ve salt okunur gösterir",
+    "Kasa → Müşteri Cari: artık isim yanında Personel ID ile de arama yapılabiliyor",
+    "Müşteri Cari ekranı sadeleştirildi: seçim/indirim şeridi, alt panel ve düzenlenen kayıtların görünümü iyileştirildi",
+    "Koyu tema renkleri daha canlı hale getirildi (Kasa, Puantaj, Devamsızlık ve genel menü)",
+    "Telefonda personel detay sayfası (Günlük Detay) artık sayfa değiştirmeden anlık güncelleniyor",
+    "Kullanıcı düzenlerken kurtarma e-postası artık her kullanıcı için kendi değerini gösteriyor",
+    "Kenar çubuğu (sidebar) artık sabit: Otomatik Gizleme ayarı kaldırıldı",
+    "Küçük düzeltmeler ve kod temizliği"
   ]
 }
