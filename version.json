@@ -1,14 +1,14 @@
 {
-  "version": "1.2.30",
-  "build": 45,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.30/app-release.apk",
+  "version": "1.2.31",
+  "build": 46,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.31/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo Yönetim Merkezi: Et Transfer Listesi yeniden kuruldu, İç Transfer gerçek stok ile bağlandı, Dış Ürün Sevkiyat & Kabul sayfası eklendi",
-    "Depo Yönetim Merkezi: Stok, Hareketler ve Tedarikçiler sekmeleri gerçek zamanlı (realtime) çalışıyor",
-    "Üretim/Satış Girişi ve Aylık Ürün Tüketimi ekranları Excel tarzı Taslak/Kaydet/Offline mimarisine taşındı",
-    "Vardiya Karar Motoru yeniden kuruldu ve entegre edildi",
-    "Belgeler paneli serbest/sürüklenebilir yeni ERP tasarımına kavuştu",
-    "Çeşitli hata düzeltmeleri ve kod temizliği"
+    "Et Transfer Listesi: fiyat geçmişi takibi, Fiyat Güncelle penceresi ve gün bazlı geçerli fiyata göre Toplam Fiyat hesabı",
+    "Et Transfer PDF: fiyat güncelleme listesi iki sütun ve Eski Fiyat sütunu",
+    "Depo Yönetim Merkezi: Satış Birimi sekmesi eklendi",
+    "Dış Ürün Sevkiyat: kompakt butonlar; Mal Kabul yalnızca stoktaki üründen seçim yapar",
+    "Windows: internet yok uyarısı kullanıcı kartında Çevrimdışı olarak gösterilir",
+    "Çeşitli hata düzeltmeleri"
   ]
 }
