@@ -1,13 +1,16 @@
 {
-  "version": "1.2.31",
-  "build": 46,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.31/app-release.apk",
+  "version": "1.2.33",
+  "build": 48,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.33/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Et Transfer Listesi: fiyat geçmişi takibi, Fiyat Güncelle penceresi ve gün bazlı geçerli fiyata göre Toplam Fiyat hesabı",
-    "Et Transfer PDF: fiyat güncelleme listesi iki sütun ve Eski Fiyat sütunu",
-    "Depo Yönetim Merkezi: Satış Birimi sekmesi eklendi",
-    "Dış Ürün Sevkiyat: kompakt butonlar; Mal Kabul yalnızca stoktaki üründen seçim yapar",
+    "Depo Yönetim Merkezi: Satış Birimi sekmesi (10 bölüm, ürünler, Şaşlık A5 formu, 1-15 / 16-son A4 yatay yazdırma)",
+    "Depo stok ürün adları Türkçe/Rusça çok dilli; dil değişince ürün adları değişir, ürün formunda Rusça ad",
+    "Depo Yönetim Merkezi ve Dış Ürün Sevkiyat arayüz çevirileri (TR/RU/EN)",
+    "Dış Ürün Sevkiyat: kompakt butonlar/sekmeler; Mal Kabul'de ürün yalnızca Stok Listesi'nden seçilir",
+    "Depo rolündeki kullanıcılar şubedeki tüm depoları görür",
+    "Stok Listesi: stok hareketi olmayan yeni ürünler 0 stok olarak gösterilir",
+    "Et Transfer fiyat ve PDF iyileştirmeleri",
     "Windows: internet yok uyarısı kullanıcı kartında Çevrimdışı olarak gösterilir",
     "Çeşitli hata düzeltmeleri"
   ]
