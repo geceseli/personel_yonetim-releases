@@ -1,19 +1,14 @@
 {
-  "version": "1.2.34",
-  "build": 49,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.34/app-release.apk",
+  "version": "1.2.35",
+  "build": 50,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.35/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Program geneli ürün adı dil kuralı: ürün adları tek ad olarak Türkçe/Rusça gösterilir, dil değişince ürün adları da değişir",
-    "Yeni Stok Listesi ve ürün detay paneli",
-    "Marka/Kolide ve SKT/FEFO takibi",
-    "İç Transfer: TR/RU dil anahtarı ve tek ad sütunu",
-    "İç Transfer: 5 Ekim stok başlangıcı ve birim çevrimi",
-    "Pirzovot/Prafsayus için 41 ürünlük transfer formu",
-    "Dış Ürün Girişi: kategori popup'ı",
-    "Ürün görseli: Yerelden veya Sunucudan seçim",
-    "Realtime ve stok düzeltmeleri",
-    "Belge silme onayı ve tablo taşma düzeltmeleri",
-    "Çeşitli hata düzeltmeleri"
+    "Vardiya motoru: birim bazlı çalışma modeli (Standart Vardiya / Süre Bazlı Değişken)",
+    "Vardiya Ayarları'ndan tarih bazlı birim ve model yönetimi",
+    "Süre bazlı modelde yuvarlama ve tolerans olmadan gerçek dakika üzerinden net eksik / net fazla hesabı",
+    "Personel birim geçmişi (tarih bazlı birim değişikliği takibi)",
+    "PDF, Puantaj ve PDKS maaş aktarma bağlantıları yeni modele uyarlandı",
+    "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
