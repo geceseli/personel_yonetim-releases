@@ -1,14 +1,14 @@
 {
-  "version": "1.2.35",
-  "build": 50,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.35/app-release.apk",
+  "version": "1.2.37",
+  "build": 52,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.37/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Vardiya motoru: birim bazlı çalışma modeli (Standart Vardiya / Süre Bazlı Değişken)",
-    "Vardiya Ayarları'ndan tarih bazlı birim ve model yönetimi",
-    "Süre bazlı modelde yuvarlama ve tolerans olmadan gerçek dakika üzerinden net eksik / net fazla hesabı",
-    "Personel birim geçmişi (tarih bazlı birim değişikliği takibi)",
-    "PDF, Puantaj ve PDKS maaş aktarma bağlantıları yeni modele uyarlandı",
+    "Barkod: tanımsız barkod okutulunca 'Yeni Barkod Tanımla / Mevcut Ürün ile Eşleştir' penceresi, ürün bilgi kontrol paneli, koli/adet ile stok girişi, kamera yakınlaştırma (zoom)",
+    "Dış Ürün Sevkiyat: Ürün Giriş Formu'nda kalıcı hazır ürün listesi (miktarlar sıfırlanır, fiyatlar hatırlanır), içecekler için ambalaj/boyut kutusu, telefonda tablo görünümü ve Rusça başlık taşması düzeltmeleri",
+    "Boş A5 belge: yazdırmadan önce önizleme, belirgin hücre çizgileri, okunaklı yazılar; Pirzovot/Prafsayus listelerine 'Bilic' eklendi",
+    "Puantaj çıktısı: büyütülmüş okunaklı yazılar, mavi personel bilgi alanı, Per Adı, Çek Tutar, Kalan İzin Hakkı, özel izin günleri kırmızı satır",
+    "Stok: ürün adları sadeleştirildi (marka ayrı alanda), yeni ürünler ve Rusça adlar eklendi",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
