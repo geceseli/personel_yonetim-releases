@@ -1,14 +1,15 @@
 {
-  "version": "1.2.37",
-  "build": 52,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.37/app-release.apk",
-  "mandatory": false,
+  "version": "1.2.38",
+  "build": 53,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.38/app-release.apk",
+  "mandatory": true,
   "notes": [
-    "Barkod: tanımsız barkod okutulunca 'Yeni Barkod Tanımla / Mevcut Ürün ile Eşleştir' penceresi, ürün bilgi kontrol paneli, koli/adet ile stok girişi, kamera yakınlaştırma (zoom)",
-    "Dış Ürün Sevkiyat: Ürün Giriş Formu'nda kalıcı hazır ürün listesi (miktarlar sıfırlanır, fiyatlar hatırlanır), içecekler için ambalaj/boyut kutusu, telefonda tablo görünümü ve Rusça başlık taşması düzeltmeleri",
-    "Boş A5 belge: yazdırmadan önce önizleme, belirgin hücre çizgileri, okunaklı yazılar; Pirzovot/Prafsayus listelerine 'Bilic' eklendi",
-    "Puantaj çıktısı: büyütülmüş okunaklı yazılar, mavi personel bilgi alanı, Per Adı, Çek Tutar, Kalan İzin Hakkı, özel izin günleri kırmızı satır",
-    "Stok: ürün adları sadeleştirildi (marka ayrı alanda), yeni ürünler ve Rusça adlar eklendi",
-    "Çeşitli iyileştirme ve hata düzeltmeleri"
+    "ZORUNLU GÜNCELLEME: Maaş bilgisi artık yalnızca Admin ve Şube Müdürü tarafından görülebilir (ekranlar, PDF ve veritabanı korumalı). Eski sürümde maaş görünmez.",
+    "Depo: Stok Listesi en son girişe göre sıralı ve sayfada 50 kayıt, menüde en altta; Genel Bakış'ta Stok Hareketleri / Transfer ve Mal Kabul Belgeleri / Kritik Stok kutuları, Ana Sayfa düğmesi; kasa ve depo kullanıcıları mobilde kendi ana sayfasını görür",
+    "Dış Ürün Sevkiyat: Hedef Depo kalktı (ürünün kendi deposuna giriş, depo atama diyaloğu, ürün kartında Varsayılan Depo), ürün arama kutusu, daha kompakt satırlar, Kayıtlı Belgeler paneli (küçültme çubuğu, önizlemeli yazdır, şube değiştirme, Düzenle / İptal)",
+    "Pirzovot ve Prafsayus: fiyat ve tutar sütunları, gizli maliyet ile otomatik sabit birim fiyat, Şöbiyet, eski belgelere fiyat uygulama",
+    "Yeni: Aylık Rapor (PDF tam sayfa önizleme / Excel), PDF çıktılarında e-posta uzantısı yerine yalnız isim",
+    "Personel Puantaj: işten ayrılma sürecindeki personele rozet ve birim sayılarından düşme; Salon Şef, Garson ve İdari Birim devamsızlık uyarısından muaf; üst bar düzeni",
+    "Dil değiştirme düzeltmesi ve çeşitli iyileştirmeler"
   ]
 }
