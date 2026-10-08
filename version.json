@@ -1,14 +1,15 @@
 {
-  "version": "1.2.39",
-  "build": 54,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.39/app-release.apk",
+  "version": "1.2.40",
+  "build": 55,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.40/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Yeni: Maliyet Raporları penceresi (İç Transfer) — birim bazlı giren malzeme tutarı, üretilen ürün, reçeteye göre beklenen maliyet ve fark; PDF / Excel / Yazdır",
-    "Belgeler paneli yeni tasarım (İç Transfer / Et Transfer / Satış Birimi) ve Dış Ürün Sevkiyat Kayıtlı Belgeler panelinde daha yumuşak renkler",
-    "İç Transfer ve Satış Birimi: satır başı + düğmeleri yerine listenin sonunda tek 'Ürün Ekle' düğmesi; Ürün Yönet penceresi daha kompakt",
-    "Dış Ürün Sevkiyat: Ürün Giriş formunda içeceklere boyut (lt/cl) seçici; Pirzovot ve Prafsayus formlarında ürün satırı silme / geri getirme; Bilic listeden kaldırıldı",
-    "Aylık Rapor: aynı ürünün farklı boyutları ayrı satır; PDKS'den Aktar: 'Merve New' departmanı gösterilmez",
-    "Prafsayus ve Pirzovot şubelerinde yeni ürün eklerken birim ve kategori listeleri dolu; çeşitli iyileştirme ve hata düzeltmeleri"
+    "Depo Yönetimi artık her zaman açık temada; Stok Listesi yeni tasarım diline geçti (sade, düz görünüm)",
+    "Yeni: Stok Listesi > Birimler penceresi — yeni birim (depo) tanımlama, düzenleme, pasife alma, ürünleri başka birime taşıma ve taşıma geçmişi; Kategoriler ve Ölçü Birimleri yönetimi (ürünleri başka kategoriye taşıma)",
+    "Yeni: İç Transfer > Maliyet Raporları penceresi (giren malzeme, üretilen ürün, reçeteye göre beklenen maliyet ve fark; PDF / Excel / Yazdır)",
+    "Belgeler paneli yenilendi: PDF / Yazdır'da birim listesi (Toplu: her birim ayrı sayfa veya tek birim), gün seçici, birim çipleri, deneme belgeleri, belirgin tablo çizgileri",
+    "İç Transfer ve Satış Birimi: satır başı + yerine listenin sonunda tek 'Ürün Ekle' düğmesi; Ürün Yönet ve Kategoriden Ürün Ekle pencereleri kompakt ve okla kaydırılabilir",
+    "Kullanıcı Düzenle: Depo için tek 'Depoda tam yetki' anahtarı; açılır listelerin pencerelerin arkasında kalması giderildi",
+    "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
