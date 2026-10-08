@@ -1,15 +1,14 @@
 {
-  "version": "1.2.38",
-  "build": 53,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.38/app-release.apk",
-  "mandatory": true,
+  "version": "1.2.39",
+  "build": 54,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.39/app-release.apk",
+  "mandatory": false,
   "notes": [
-    "ZORUNLU GÜNCELLEME: Maaş bilgisi artık yalnızca Admin ve Şube Müdürü tarafından görülebilir (ekranlar, PDF ve veritabanı korumalı). Eski sürümde maaş görünmez.",
-    "Depo: Stok Listesi en son girişe göre sıralı ve sayfada 50 kayıt, menüde en altta; Genel Bakış'ta Stok Hareketleri / Transfer ve Mal Kabul Belgeleri / Kritik Stok kutuları, Ana Sayfa düğmesi; kasa ve depo kullanıcıları mobilde kendi ana sayfasını görür",
-    "Dış Ürün Sevkiyat: Hedef Depo kalktı (ürünün kendi deposuna giriş, depo atama diyaloğu, ürün kartında Varsayılan Depo), ürün arama kutusu, daha kompakt satırlar, Kayıtlı Belgeler paneli (küçültme çubuğu, önizlemeli yazdır, şube değiştirme, Düzenle / İptal)",
-    "Pirzovot ve Prafsayus: fiyat ve tutar sütunları, gizli maliyet ile otomatik sabit birim fiyat, Şöbiyet, eski belgelere fiyat uygulama",
-    "Yeni: Aylık Rapor (PDF tam sayfa önizleme / Excel), PDF çıktılarında e-posta uzantısı yerine yalnız isim",
-    "Personel Puantaj: işten ayrılma sürecindeki personele rozet ve birim sayılarından düşme; Salon Şef, Garson ve İdari Birim devamsızlık uyarısından muaf; üst bar düzeni",
-    "Dil değiştirme düzeltmesi ve çeşitli iyileştirmeler"
+    "Yeni: Maliyet Raporları penceresi (İç Transfer) — birim bazlı giren malzeme tutarı, üretilen ürün, reçeteye göre beklenen maliyet ve fark; PDF / Excel / Yazdır",
+    "Belgeler paneli yeni tasarım (İç Transfer / Et Transfer / Satış Birimi) ve Dış Ürün Sevkiyat Kayıtlı Belgeler panelinde daha yumuşak renkler",
+    "İç Transfer ve Satış Birimi: satır başı + düğmeleri yerine listenin sonunda tek 'Ürün Ekle' düğmesi; Ürün Yönet penceresi daha kompakt",
+    "Dış Ürün Sevkiyat: Ürün Giriş formunda içeceklere boyut (lt/cl) seçici; Pirzovot ve Prafsayus formlarında ürün satırı silme / geri getirme; Bilic listeden kaldırıldı",
+    "Aylık Rapor: aynı ürünün farklı boyutları ayrı satır; PDKS'den Aktar: 'Merve New' departmanı gösterilmez",
+    "Prafsayus ve Pirzovot şubelerinde yeni ürün eklerken birim ve kategori listeleri dolu; çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
