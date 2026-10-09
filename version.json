@@ -1,15 +1,16 @@
 {
-  "version": "1.2.40",
-  "build": 55,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.40/app-release.apk",
+  "version": "1.2.41",
+  "build": 56,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.41/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Depo Yönetimi artık her zaman açık temada; Stok Listesi yeni tasarım diline geçti (sade, düz görünüm)",
-    "Yeni: Stok Listesi > Birimler penceresi — yeni birim (depo) tanımlama, düzenleme, pasife alma, ürünleri başka birime taşıma ve taşıma geçmişi; Kategoriler ve Ölçü Birimleri yönetimi (ürünleri başka kategoriye taşıma)",
-    "Yeni: İç Transfer > Maliyet Raporları penceresi (giren malzeme, üretilen ürün, reçeteye göre beklenen maliyet ve fark; PDF / Excel / Yazdır)",
-    "Belgeler paneli yenilendi: PDF / Yazdır'da birim listesi (Toplu: her birim ayrı sayfa veya tek birim), gün seçici, birim çipleri, deneme belgeleri, belirgin tablo çizgileri",
-    "İç Transfer ve Satış Birimi: satır başı + yerine listenin sonunda tek 'Ürün Ekle' düğmesi; Ürün Yönet ve Kategoriden Ürün Ekle pencereleri kompakt ve okla kaydırılabilir",
-    "Kullanıcı Düzenle: Depo için tek 'Depoda tam yetki' anahtarı; açılır listelerin pencerelerin arkasında kalması giderildi",
+    "Android: Stok Listesi'nde her ürün kartında '+ Stok Girişi' düğmesi; 'Stok Ekle' ürün seçilmeden de açılır",
+    "Ürün Düzenle: yeni Stok kutusu — depo seç, güncel stoğu gör, stok ekle (+) veya güncel stok yaz (=); değişiklik hareket geçmişine kaydedilir",
+    "Ürün Ekle / Düzenle: '1 adet kaç kg' alanı (birim KG değilse görünür); ürün detayında 'Kilo karşılığı' satırı; İç Transfer hareketi olan üründe değiştirilemez",
+    "Birimler penceresi telefona uyarlandı (tam ekran, liste → detay, yatay kaydırmalı tablolar); Stok Listesi başlığında Birimler düğmesi",
+    "Dış Ürün Sevkiyat fişi: başlık alanı şubeye göre renkli (Pirzovot açık turuncu, Prafsayus açık mavi); Yazdır, PDF ve Boş Belge çıktılarında geçerli",
+    "Dış Ürün Sevkiyat: onay, depo atama ve şube değiştirme pencerelerinde açılır listelerin arkada kalması giderildi; üst çubuk taşma önlemi",
+    "Depo Belgeler paneli: PDF/Yazdır'da birim listesi, gün seçici, gerçek birimlerle deneme belgeleri; Kategoriden Ürün Ekle'de okla kaydırma",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
