@@ -1,16 +1,12 @@
 {
-  "version": "1.2.41",
-  "build": 56,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.41/app-release.apk",
+  "version": "1.2.42",
+  "build": 57,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.42/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Android: Stok Listesi'nde her ürün kartında '+ Stok Girişi' düğmesi; 'Stok Ekle' ürün seçilmeden de açılır",
-    "Ürün Düzenle: yeni Stok kutusu — depo seç, güncel stoğu gör, stok ekle (+) veya güncel stok yaz (=); değişiklik hareket geçmişine kaydedilir",
-    "Ürün Ekle / Düzenle: '1 adet kaç kg' alanı (birim KG değilse görünür); ürün detayında 'Kilo karşılığı' satırı; İç Transfer hareketi olan üründe değiştirilemez",
-    "Birimler penceresi telefona uyarlandı (tam ekran, liste → detay, yatay kaydırmalı tablolar); Stok Listesi başlığında Birimler düğmesi",
-    "Dış Ürün Sevkiyat fişi: başlık alanı şubeye göre renkli (Pirzovot açık turuncu, Prafsayus açık mavi); Yazdır, PDF ve Boş Belge çıktılarında geçerli",
-    "Dış Ürün Sevkiyat: onay, depo atama ve şube değiştirme pencerelerinde açılır listelerin arkada kalması giderildi; üst çubuk taşma önlemi",
-    "Depo Belgeler paneli: PDF/Yazdır'da birim listesi, gün seçici, gerçek birimlerle deneme belgeleri; Kategoriden Ürün Ekle'de okla kaydırma",
+    "Ürün Ekle / Düzenle: içecekler için Boyut seçenekleri (ör. PET 1,5 lt, Cam şişe 33 cl); Dış Ürün Sevkiyat'ta boyut seçiminde görünür",
+    "Depo ve ölçü birimi adları Rusça dilinde Rusça görünür; Birimler penceresinde 'Rusça Ad' alanı (boşsa otomatik çevrilir)",
+    "Dış Ürün Sevkiyat: A5 boş belge/fiş yazdırmada kenar boşluğu düzeltildi, sayfaya sığar",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
