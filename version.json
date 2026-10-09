@@ -1,12 +1,12 @@
 {
-  "version": "1.2.42",
-  "build": 57,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.42/app-release.apk",
+  "version": "1.2.43",
+  "build": 58,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.43/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Ürün Ekle / Düzenle: içecekler için Boyut seçenekleri (ör. PET 1,5 lt, Cam şişe 33 cl); Dış Ürün Sevkiyat'ta boyut seçiminde görünür",
-    "Depo ve ölçü birimi adları Rusça dilinde Rusça görünür; Birimler penceresinde 'Rusça Ad' alanı (boşsa otomatik çevrilir)",
-    "Dış Ürün Sevkiyat: A5 boş belge/fiş yazdırmada kenar boşluğu düzeltildi, sayfaya sığar",
+    "Boyut/ambalaj seçenekleri tüm ürünlerde: hazır listeden seçim (PET, CAM ŞİŞE, PAKET… + 20 CL, 33 CL, 1,5 LT, 5 KG…), yazı girişi yok, büyük harf; Stok Listesi'nde Ambalaj sütununda otomatik görünür",
+    "Ürün Düzenle: birim ve '1 adet kaç kg' alanları artık kilitli değil; hareketi olan üründe değişirken tek onay penceresi çıkar",
+    "Aynı ad + marka + birimle ikinci aktif ürün açılamaz; kopya ürünler birleştirildi",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
