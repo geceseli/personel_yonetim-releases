@@ -1,12 +1,13 @@
 {
-  "version": "1.2.43",
-  "build": 58,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.43/app-release.apk",
+  "version": "1.2.44",
+  "build": 59,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.44/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Boyut/ambalaj seçenekleri tüm ürünlerde: hazır listeden seçim (PET, CAM ŞİŞE, PAKET… + 20 CL, 33 CL, 1,5 LT, 5 KG…), yazı girişi yok, büyük harf; Stok Listesi'nde Ambalaj sütununda otomatik görünür",
-    "Ürün Düzenle: birim ve '1 adet kaç kg' alanları artık kilitli değil; hareketi olan üründe değişirken tek onay penceresi çıkar",
-    "Aynı ad + marka + birimle ikinci aktif ürün açılamaz; kopya ürünler birleştirildi",
+    "Yeni Ürün Ekle / Ürün Düzenle formu yenilendi: kategoriye bağlı ambalaj ve boyut seçimi; stok her zaman adet olarak sayılır, boyut (250 ml, 25 kg…) ürün adında görünür",
+    "Stok Girişi ekranı yenilendi: kategoriden ürün bulma, ad/barkodla arama, ambalaj adedi + açık adet, yeni 'İade Alımı' türü; tedarikçi ve alış fiyatı yalnız Satın Alma'da",
+    "Ürün detayındaki Düzenle / Stok Girişi Yap butonları artık Android alt çubuğunun altında kalmaz",
+    "Pirzovot ve Prafsayus boş belgesi ürün adları yazılı, iki sütun yan yana tek sayfa; Sıfırla / Boş Belge / Kaydet düğmeleri sağda",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
