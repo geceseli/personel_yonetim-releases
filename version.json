@@ -1,13 +1,12 @@
 {
-  "version": "1.2.46",
-  "build": 61,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.46/app-release.apk",
+  "version": "1.2.47",
+  "build": 62,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.47/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Et İç Transfer boş belgesi (A5): Şaşlık A5 Formu'ndaki tüm ürünler artık fişe geliyor",
-    "Et İç Transfer boş belgesinde Fiş No yazılıyor (ETI-2026-01, her boş belgede bir artar)",
-    "Ürün sayısı artınca satırlar daralıp tek A5 sayfaya sığıyor",
-    "Boş Belge menüsü Şaşlık birimlerini her açılışta güncel okuyor",
+    "Yeni 'Şaşlık Satış' boş belgesi (A5): Türkçe + Tacikçe ürün adları, Parti 1-4, Depoya geri inen ürünler, mal alım ve depo gidiş saatleri satırı; Merve Lokum eklendi",
+    "Boş Belge menüsünde 'Şaşlık' birimi artık 'Şaşlık İmalat' olarak görünüyor",
+    "Boş belge önizlemesinde Yazdır: kendi yazdırma pencereniz — yazıcı seçimi ve kaç adet yazdırılacağı",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
