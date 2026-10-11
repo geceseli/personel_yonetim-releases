@@ -1,12 +1,10 @@
 {
-  "version": "1.2.47",
-  "build": 62,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.47/app-release.apk",
+  "version": "1.2.48",
+  "build": 63,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.48/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Yeni 'Şaşlık Satış' boş belgesi (A5): Türkçe + Tacikçe ürün adları, Parti 1-4, Depoya geri inen ürünler, mal alım ve depo gidiş saatleri satırı; Merve Lokum eklendi",
-    "Boş Belge menüsünde 'Şaşlık' birimi artık 'Şaşlık İmalat' olarak görünüyor",
-    "Boş belge önizlemesinde Yazdır: kendi yazdırma pencereniz — yazıcı seçimi ve kaç adet yazdırılacağı",
+    "Ürün düzenlemede 'Mevcut stok' kartı: depodaki miktar yanlışsa yeni miktar yazılabiliyor; fark geçmiş silinmeden stok hareketi olarak kaydediliyor",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
