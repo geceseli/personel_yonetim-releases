@@ -1,14 +1,13 @@
 {
-  "version": "1.2.45",
-  "build": 60,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.45/app-release.apk",
+  "version": "1.2.46",
+  "build": 61,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.46/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Et Transfer'e 'Ürün Kodu' sütunu eklendi: koda tıklayınca ürünü Stok Listesi ile eşleştirme penceresi açılır",
-    "İç Transfer'de ürün kodu hücresine tıklayınca Stok Listesi ile eşleştirme penceresi; yazarken Türkçe/Rusça ürün önerisi",
-    "Yeni ürün kaydında yazım hataları otomatik düzeltilir ve Türkçe/Rusça adı birlikte üretilir (Stok, İç Transfer, Et Transfer)",
-    "Et Ürünleri kategorisinde yeni ürünün stok birimi kilogram; Stok Girişi'nde miktar kg olarak görünür",
-    "Stok Girişi ekranında hareket tipi, kategori, tedarikçi ve depo seçimleri yeni, ikonlu seçim penceresinde",
+    "Et İç Transfer boş belgesi (A5): Şaşlık A5 Formu'ndaki tüm ürünler artık fişe geliyor",
+    "Et İç Transfer boş belgesinde Fiş No yazılıyor (ETI-2026-01, her boş belgede bir artar)",
+    "Ürün sayısı artınca satırlar daralıp tek A5 sayfaya sığıyor",
+    "Boş Belge menüsü Şaşlık birimlerini her açılışta güncel okuyor",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
