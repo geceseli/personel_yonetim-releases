@@ -1,10 +1,11 @@
 {
-  "version": "1.2.49",
-  "build": 64,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.49/app-release.apk",
+  "version": "1.2.50",
+  "build": 65,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.50/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Stok Listesi'nde ürün düzenleme: form artık kayıtlı değerlerle (kategori, depo, ambalaj, marka vb.) açılıyor, hiçbir alan sıfırlanmıyor; yalnızca değiştirmek istediğin alanı güncellersin",
+    "Yeni boş belge: 'Et İç Transfer Formu' (A5) — bölüm başlıklı liste, en altta listede olmayan ürün için boş satırlar",
+    "Şaşlık Satış boş belgesinden 'Mal alım ve depo gidiş saatleri' satırı kaldırıldı, satırlar daha geniş",
     "Çeşitli iyileştirme ve hata düzeltmeleri"
   ]
 }
