@@ -1,11 +1,11 @@
 {
-  "version": "1.2.50",
-  "build": 65,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.50/app-release.apk",
+  "version": "1.2.51",
+  "build": 66,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.51/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Yeni boş belge: 'Et İç Transfer Formu' (A5) — bölüm başlıklı liste, en altta listede olmayan ürün için boş satırlar",
-    "Şaşlık Satış boş belgesinden 'Mal alım ve depo gidiş saatleri' satırı kaldırıldı, satırlar daha geniş",
-    "Çeşitli iyileştirme ve hata düzeltmeleri"
+    "Form ve Belge Yazdırma: sağ tık menüsü (Kes/Kopyala/Yapıştır, hücre renklendirme), yeni başlık ve doğrudan yazdırma",
+    "Tüm Yazdır düğmeleri ortak yazdırma penceresini açıyor: yazıcı, kağıt (A3/A4/A5), kopya sayısı, sessiz hızlı yazdırma",
+    "Depo sayfalarında sağ tık menüsü (Kes/Kopyala/Yapıştır/Tümünü Seç); Dış Ürün Sevkiyat başlık taşması düzeltildi"
   ]
 }
