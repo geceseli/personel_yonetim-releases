@@ -1,11 +1,11 @@
 {
-  "version": "1.2.51",
-  "build": 66,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.51/app-release.apk",
+  "version": "1.2.52",
+  "build": 67,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.52/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Form ve Belge Yazdırma: sağ tık menüsü (Kes/Kopyala/Yapıştır, hücre renklendirme), yeni başlık ve doğrudan yazdırma",
-    "Tüm Yazdır düğmeleri ortak yazdırma penceresini açıyor: yazıcı, kağıt (A3/A4/A5), kopya sayısı, sessiz hızlı yazdırma",
-    "Depo sayfalarında sağ tık menüsü (Kes/Kopyala/Yapıştır/Tümünü Seç); Dış Ürün Sevkiyat başlık taşması düzeltildi"
+    "Form ve Belge Yazdırma: yeni üst çubuk yerleşimi, tabloda \"20 AD / 2,5 KG / 15 SM\" biçimi (veri yalnız sayı), Kayıtlı Formlar, tarih seçici, otomatik fiş numarası",
+    "Yazdırma penceresi: sayfa başına form (2/4/6), kenar boşluğu, sayfa aralığı, filigran, siyah-beyaz, çift taraflı, ayar şablonları; Yazdırma Geçmişi (yalnız Admin)",
+    "Personel ID'si boş personele yalnız Admin ID atar (Geri Al sırasında zorunlu); Stok: Sebze & Meyve ambalaj listesine Kg eklendi"
   ]
 }
