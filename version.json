@@ -1,11 +1,11 @@
 {
-  "version": "1.2.53",
-  "build": 68,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.53/app-release.apk",
+  "version": "1.2.54",
+  "build": 69,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.54/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Form ve Belge Yazdırma: Kayıtlı Formlar artık popup — Aç / Yazdır / Sil ve (yalnız Admin) Yazdırma Geçmişi sekmesi; durum, hata nedeni, Tekrar / Yeniden Dene, Excel'e aktar",
-    "Geçmişi Temizle kayıtları silmez, işaretler ve işlem izi bırakır; her yazdırma önce kuyrukta açılır, sonra başarılı/hata olur",
-    "Stok: stok kaydı olmayan üründe stok düzeltmesi hatası (bigint) giderildi; boş depo ID koruması; Sebze & Meyve ambalajına Kg; İç Transfer/yazdırma küçük düzeltmeleri"
+    "Stok Listesi: ürünü Pasife Al — satır sağ tık menüsü, detay paneli ve Ürünü Düzenle penceresindeki düğme (mevcut onay/yetki akışıyla)",
+    "Form ve Belge Yazdırma: üst çubuk yerleşimi, kâğıt dili düğmesi (TR/RU), tam çeviri (TR/EN/RU) ve ürün adı çevirisi",
+    "Fiş numarası sayfa açılırken otomatik ayrılır (salt okunur, benzersiz)"
   ]
 }
