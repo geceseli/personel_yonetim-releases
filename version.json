@@ -1,14 +1,13 @@
 {
-  "version": "1.2.55",
-  "build": 70,
-  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.55/app-release.apk",
+  "version": "1.2.56",
+  "build": 71,
+  "url": "https://github.com/geceseli/personel_yonetim-releases/releases/download/v1.2.56/app-release.apk",
   "mandatory": false,
   "notes": [
-    "Birim Et Transferi: İç Transfer alt sekmesi — Başlık VE Birim penceresi, Sabit Et Listesi'nden ürün seçimi, ayın tüm günleri, kalıcı kayıt",
-    "Otomatik çift dil (TR/RU): tedarikçi, marka ve stok girişi notu karşı dile otomatik çevrilir; elle düzeltme korunur",
-    "Dış Ürün Sevkiyat: kayıtlı belge yazdırmada stok dışı kalemler PDF'te, silinen belge listede kalmıyor, tedarikçi önerisinde tüm liste ve kod ile arama",
-    "Kayıtlı Formlar: Aç işlemi hızlandı ve hata görünür hale geldi",
-    "Ürün ekle/düzenle ve stok ekle pencerelerinde kalın ve keskin çizgiler (Android + Windows)",
-    "Stok kategorileri: Et ve Tavuk ayrıldı; eksik et kalemleri eklendi"
+    "Başlık VE Birim penceresi yenilendi: başlık ve kalem yönetimi, yeni ürün tanımlama, satır içi düzenleme, sürükleyerek sıralama, Çöp Kutusu ve geri alma",
+    "Birim Et Transferi artık Et Transfer Listesi ve Satış Birimi'nde de var; hücre geçişi hızlandı, yön tuşları çalışıyor, sütun harfli başlık",
+    "Şerit düğmeleri yeni kart tasarımında; tablo çizgileri ince ve keskin; hücrenin her noktası tıklanabilir",
+    "Yanlış 'Offline' uyarısı giderildi (bağlantı kontrolü iyileştirildi)",
+    "Kategoriden Ürün Ekle penceresine kısa 'Listeye Ekle' düğmesi; Birim Et sayfası TR/EN/RU çeviri desteği"
   ]
 }
